@@ -1,12 +1,12 @@
-EXP NO:03
+## EXP NO:03
 
 # Coke-Tin-Modelling
 
-##Aim
+## Aim
 To create a coke tin model using maya.
 
 
-##Procedure
+## Procedure
 Step1: Create a cylinder using polyshapes.
 
 Step2: Extrude the cylinder till getting a proper shape of a can.
@@ -28,10 +28,10 @@ Step9: By using scale tool move those faces inwards so we get the shape of the t
 Step10: Repeat the samething with scale tool in the bottom the can.
 
 
-##Output
+## Output
 
 ![Coke tin](https://user-images.githubusercontent.com/75235022/206854196-9219a95e-e1b1-4661-9eea-54bcef8ed899.png)
 
 
-##Result
+## Result
 Therefore a coke tin is successfully created using maya
